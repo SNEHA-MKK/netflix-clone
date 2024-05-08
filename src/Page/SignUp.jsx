@@ -9,7 +9,7 @@ function SignUp() {
       <img className='ms-1 upLog' src={netflix_logo1} height={'150px'} width={'250px'} alt="" />
       <hr />
 
-      <div className="row mt-5">
+      <div className="row mt-5 p-5">
         <div className="col-md-4"></div>
         <div className="col-md-4">
           <h6>STEP  1  OF  3</h6>
