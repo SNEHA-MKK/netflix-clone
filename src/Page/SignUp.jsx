@@ -17,8 +17,7 @@ function SignUp() {
           <b>Joining Netflix is easy.</b></h3>
            <h5>Enter your password and you'll be watching in no time.</h5>
 
-           <h5 className='mt-4'>Email</h5>
-           <p><b>snehamace123@gmail.com</b></p>
+           
            <form action="">
             <input className='up-inp mb-3' type="text" placeholder='Enter your password' />
             <a className='text-primary' style={{textDecoration:'none'}}  href=""><b>Forgot your password?</b></a><br />
