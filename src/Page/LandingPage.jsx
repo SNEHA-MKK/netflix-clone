@@ -99,7 +99,7 @@ function LandingPage() {
 
     <footer className="bg-dark text-white pt-5 pb-5 " id="footer">
         <div className="container">
-            <div className="row">
+            <div className="row p-5">
                 {/* <div className="col-md-2 ">
                     <img src="https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg" alt="Logo" width="120" height="40"
                         className="d-inline-block netflix-content align-text-top" />
